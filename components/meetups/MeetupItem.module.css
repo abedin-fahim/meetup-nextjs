@@ -15,6 +15,10 @@
   object-fit: cover;
 }
 
+.address {
+  color: #2c292b;
+}
+
 .content {
   text-align: center;
   padding: 1rem;
